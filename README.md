@@ -2,7 +2,7 @@
 
 ## Submitted: Suryansh Yadav, IIT Kanpur
 
-### Demo: [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://suryansh-y-quicksell.surge.sh/))
+### Demo: [a link](https://github.com/user/repo/blob/branch/other_file.md](https://suryansh-y-quicksell.surge.sh)
 ### ScreenShot of Application
 ![image](https://github.com/0Suryansh/QuickSell-Assessment/assets/75418521/89663ddd-15c2-4d40-8326-51420b86bc1b)
 
