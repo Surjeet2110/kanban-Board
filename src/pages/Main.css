@@ -6,6 +6,10 @@
     background-color: #FFFFFF;
     display: flex;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    border-bottom: 1px solid #ccc;
 }
 .main-wrapper__bottom{
     display: flex;
