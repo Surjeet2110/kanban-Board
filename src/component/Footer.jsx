@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () =>{
     return(
         <div className="footer_wrapper">
-            Made By:- Suryansh Yadav @ IIT Kanpur
+            Made By:- Surjeet Singh @ IIIT Bhopal
         </div>
     )
 }
