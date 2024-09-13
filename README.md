@@ -1,13 +1,61 @@
-# QuickSell Frontend Assessment
+# Kanban Board Project
 
-## Submitted: Suryansh Yadav, IIT Kanpur
+This is a **Kanban Board** project built using **React** and **Vite**. The application allows users to manage tasks visually by grouping and sorting tickets based on their status, user, and priority.
 
-### Demo: [a link](https://suryansh-y-quicksell.surge.sh)
-### ScreenShot of Application
-![image](https://github.com/0Suryansh/QuickSell-Assessment/assets/75418521/89663ddd-15c2-4d40-8326-51420b86bc1b)
+## Features
 
-![image](https://github.com/0Suryansh/QuickSell-Assessment/assets/75418521/64344b7e-7226-41de-8538-c239a5ac3c9b)
+- Drag and drop functionality to move tasks between columns.
+- Group tickets by **User**, **Status**, and **Priority**.
+- Sort tickets based on various criteria.
+- Save the user's view state after reload.
+- Pure CSS for styling, and SVG assets for visual elements.
 
-![image](https://github.com/0Suryansh/QuickSell-Assessment/assets/75418521/e19a59a9-318c-4e47-bf4f-986ae8da0976)
+## Prerequisites
 
-![image](https://github.com/0Suryansh/QuickSell-Assessment/assets/75418521/149d7558-a3bb-4e52-b20c-09bd78ed96c7)
+Before running the project, make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+
+## Setup Instructions
+
+### 1. Clone the repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Surjeet2110/kanban-Board.git
+
+#### 2. Navigate to the project directory
+Move into the project directory:
+
+```bash
+cd kanban-Board
+
+#####  3. Install dependencies
+
+Install the necessary project dependencies:
+
+For npm users:
+```bash
+npm install
+
+For yarn users:
+```bash
+yarn install
+
+###### License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+####### 1. **Add this content to `README.md`**:
+- Open the `README.md` file in your text editor and replace its content with the provided markdown above.
+
+######## 2. **Save the changes**:
+- Save the file after updating it.
+
+######### 3. **Stage, commit, and push the changes**:
+
+```bash
+git add README.md
+git commit -m "Added complete project setup instructions to README.md"
+git push origin main
